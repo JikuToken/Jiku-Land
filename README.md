@@ -14,8 +14,8 @@ It is a 1 player game that allows
 the user to discover a tron like city.
 It is a third person game 
 for PC and mobile phones.
-The user can jump and run and their are ads
-from our community in the 3D city.
+The user can jump and run and there are 
+adverts from our community in the 3D city.
 
 Jiku Land beta version 1.3 will have 
 portals that allow the users to visit
