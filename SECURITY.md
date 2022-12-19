@@ -8,8 +8,8 @@
 | ------- | ------------------ |
 | 1.0.3   | :white_check_mark: |
 | 1.0.2   | :x:                |
-| 1.0.1   | :white_check_mark: |
-| < 1.00   | :x:                |
+| 1.0.1   | :x:                |
+| 1.00    | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
