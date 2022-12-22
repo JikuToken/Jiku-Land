@@ -18,7 +18,7 @@
 Email us
 Jiku.shop101@gmail.com
 Title email "101"
-Explain the issue in body
+Explain the issue in the body of the email.
 
 Our tech team will resolve any vulnerability 
 as soon as possible. 
