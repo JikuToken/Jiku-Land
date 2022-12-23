@@ -2,11 +2,11 @@
 
 ## Supported Versions
 
-1.00 - 1.1.4
+1.00 - 1.0.5
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 1.1.4   | :white_check_mark: |
+| 1.0.5   | :white_check_mark: |
 | 1.0.4   | :x:                |
 | 1.0.3   | :x:                |
 | 1.0.2   | :x:                |
